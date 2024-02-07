@@ -1,0 +1,13 @@
+name: Desktop
+title: Desktop
+username: chadenkhalaf
+account: chadenkhalaf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11134612
+bundleId: 8225608
+url: https://chadenkhalaf.shinyapps.io/Desktop/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Data exploration.docx|desktop.ini|error.jpg|Errors.docx|Lebenslauf/CV-Chaden_Khalaf.pdf|Lebenslauf/JOB.pdf|Lebenslauf/Lebenslauf.pdf|Lebenslauf/signature_pandadoc.png|Lebenslauf/tesjil.jpg|Rscript_ShinyWebPage.R
