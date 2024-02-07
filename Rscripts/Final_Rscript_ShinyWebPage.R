@@ -31,9 +31,7 @@ data$tooltip <- paste(
   sapply(htmltools::HTML)
 
 ui <- fluidPage(
-  titlePanel(
-    tags$h1("Interactive Analysis of Obesity Factors", style = "color: blue;")
-  ),
+  titlePanel("Interactive Analysis of Obesity Factors"),
   
   sidebarLayout(
     sidebarPanel(
